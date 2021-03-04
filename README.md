@@ -2,14 +2,14 @@
 
 I'm Alicia, a final year student at the University of Sydney. I am taking a Bachelor's in Medical Science/Information Technology.
 
-- 🔭 I’m currently working on ... Image processing/Data Analytics projects
+- 🔭 I’m currently working on ... Image processing/Data Analytics/Web-dev projects
 - 🌱 I’m currently learning ... all things data science
-- 👯 I’m looking to collaborate on ... AI projects
+- 👯 I’m looking to collaborate on ... AI/Data projects
 - 🤔 I’m looking for help with ... C/C++
-- 💬 Ask me about ... all things stats!
+- 💬 Ask me about ... all things Maths!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/alicia-ha-9b69a0117/)
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... I am ambidextrous
+- ⚡ Fun fact: ... I am ambidextrous, I can solve a Rubik's cube
 
 
 <!--
